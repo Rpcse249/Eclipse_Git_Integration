@@ -1,1 +1,0 @@
-# Eclipse_Git_Integration
